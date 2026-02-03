@@ -1,0 +1,8 @@
+C:\Users\tanulo\Desktop\YE\Adatki-esbevitel\4.1feladat\bin\Debug\4.1feladat.exe.config
+C:\Users\tanulo\Desktop\YE\Adatki-esbevitel\4.1feladat\bin\Debug\4.1feladat.exe
+C:\Users\tanulo\Desktop\YE\Adatki-esbevitel\4.1feladat\bin\Debug\4.1feladat.pdb
+C:\Users\tanulo\Desktop\YE\Adatki-esbevitel\4.1feladat\obj\Debug\4.1feladat.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\YE\Adatki-esbevitel\4.1feladat\obj\Debug\4.1feladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanulo\Desktop\YE\Adatki-esbevitel\4.1feladat\obj\Debug\4.1feladat.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\YE\Adatki-esbevitel\4.1feladat\obj\Debug\4.1feladat.exe
+C:\Users\tanulo\Desktop\YE\Adatki-esbevitel\4.1feladat\obj\Debug\4.1feladat.pdb
